@@ -1,5 +1,3 @@
-# IBM-Cybersecurity
-
 ## Cybersecurity Capstone: Breach Response Case Studies
 In this module, you will learn to apply your skill to recognize data breaches, vulnerabilities and costs for a specific company.
 
